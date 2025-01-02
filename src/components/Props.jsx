@@ -55,6 +55,7 @@ function Props() {
       <SyntaxHighlighter language='javascript' style={dracula}>
         {compoentnA}
       </SyntaxHighlighter>
+      
     </>
   );
 }

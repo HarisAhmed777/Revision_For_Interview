@@ -37,6 +37,14 @@ const data = {
           title: "Props",
           url: "/props",
         },
+        {
+            title: "Props Drilling",
+            url: "/propsDrilling",
+        },
+        {
+            title: "Hooks",
+            url: "/hooks",
+        },
       ],
     },
     {

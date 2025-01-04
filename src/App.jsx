@@ -4,6 +4,8 @@ import Home from './Pages/Home';
 import MainLayout from './Pages/MainLayout';
 import JSX from './components/JSX';
 import Props from './components/Props';
+import PropsDrilling from './components/PropsDrilling';
+import Hooks from './components/Hooks';
 const router = createBrowserRouter([
   {
     path: '/',
@@ -12,6 +14,10 @@ const router = createBrowserRouter([
       { path: '/', element: <Home /> },
       { path: '/jsx', element: <JSX /> },
       { path: '/props', element: <Props /> },
+      { path: '/propsDrilling', element: <PropsDrilling /> },
+      { path: '/hooks', element: <Hooks/> },
+
+
     ],
   },
 ]);

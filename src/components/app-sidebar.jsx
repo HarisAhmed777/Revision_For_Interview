@@ -45,59 +45,160 @@ const data = {
             title: "Hooks",
             url: "/hooks",
         },
+        {
+          title: "Context API",
+          url: "#",
+        },
+        {
+          title: "Life Cycle Methods",
+          url: "#",
+        },
+        {
+          title: "Componnets",
+          url: "#",
+        },
+        {
+          title: "React Router",
+          url: "#",
+        },
+        {
+          title: "Function and Class Components",
+          url: "#",
+        },
+        {
+          title: "React List ",
+          url: "#",
+        },
+        {
+          title: "State",
+          url: "#",
+        },
+        {
+          title: "Component Rendering",
+          url: "#",
+        },
+        {
+          title: "Conditional Rendering",
+          url: "#",
+        },
+        {
+          title: "HOC",
+          url: "#",
+        },
+        {
+          title: "List and keys",
+          url: "#",
+        },
+        {
+          title: "Controlled and Uncontrolled Components",
+          url: "#",
+        },
+        {
+          title: "Event Handling",
+          url: "#",
+        },
+        {
+          title: "Lazy Loading",
+          url: "#",
+        },
       ],
+
     },
     {
       title: "JavaScript",
       url: "#",
       items: [
         {
+          title: "Js Basics",
+          url: "/var_let_const",
+        },
+        {
+          title: "Array Method",
+          url: "#",
+          // isActive: true,
+        },
+        {
+          title: "Object",
+          url: "#",
+        },
+        {
           title: "Async",
           url: "#",
         },
         {
-          title: "Data Fetching",
-          url: "#",
-          isActive: true,
-        },
-        {
-          title: "Rendering",
+          title: "Functions",
           url: "#",
         },
         {
-          title: "Caching",
+          title: "Arrow Function",
           url: "#",
         },
         {
-          title: "Styling",
+          title: "CallBacks",
           url: "#",
         },
         {
-          title: "Optimizing",
+          title: "Defining and invoking fucntions",
           url: "#",
         },
         {
-          title: "Configuring",
+          title: "Hoisting",
           url: "#",
         },
         {
-          title: "Testing",
+          title: "Closure",
           url: "#",
         },
         {
-          title: "Authentication",
+          title: "Scope",
           url: "#",
         },
         {
-          title: "Deploying",
+          title: "promises",
           url: "#",
         },
         {
-          title: "Upgrading",
+          title: "Class",
           url: "#",
         },
         {
-          title: "Examples",
+          title: "Promises",
+          url: "#",
+        },
+        {
+          title: "Inheritance",
+          url: "#",
+        },
+        {
+          title: "destructing",
+          url: "#",
+        },
+        {
+          title: "prototype",
+          url: "#",
+        },
+        {
+          title: "prototype based inheritance",
+          url: "#",
+        },
+        {
+          title: "spread operator",
+          url: "#",
+        },
+        {
+          title: "error handling",
+          url: "#",
+        },
+        {
+          title: "event listerns",
+          url: "#",
+        },
+        {
+          title: "IIFE",
+          url: "#",
+        },
+        {
+          title: "Generators",
           url: "#",
         },
       ],

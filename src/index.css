@@ -80,3 +80,8 @@
     @apply bg-background text-foreground;
   }
 }
+@layer components {
+  .syntax{
+    width:85% ;
+  }
+}

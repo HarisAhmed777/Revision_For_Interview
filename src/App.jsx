@@ -7,6 +7,9 @@ import Props from './components/Props';
 import PropsDrilling from './components/PropsDrilling';
 import Hooks from './components/Hooks';
 import Var_Let_Const from './components/Javascript/Var_Let_Const';
+import ArrayMethod from './components/Javascript/ArrayMethod';
+import Object from './components/Javascript/Object';
+import Async from './components/Javascript/Async';
 const router = createBrowserRouter([
   {
     path: '/',
@@ -18,6 +21,10 @@ const router = createBrowserRouter([
       { path: '/propsDrilling', element: <PropsDrilling /> },
       { path: '/hooks', element: <Hooks/> },
       { path: '/var_let_const', element: <Var_Let_Const/> },
+      { path: '/arraymethod', element: <ArrayMethod/> },
+      { path: '/objects', element: <Object/> },
+      { path: '/async', element: <Async/> },
+
 
 
 

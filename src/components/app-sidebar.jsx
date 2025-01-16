@@ -114,16 +114,16 @@ const data = {
         },
         {
           title: "Array Method",
-          url: "#",
+          url: "/arraymethod",
           // isActive: true,
         },
         {
           title: "Object",
-          url: "#",
+          url: "/objects",
         },
         {
           title: "Async",
-          url: "#",
+          url: "/async",
         },
         {
           title: "Functions",
